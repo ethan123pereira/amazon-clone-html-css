@@ -5,5 +5,4 @@ Amazon homepage UI clone built using HTML and CSS.
 Features:
 - Navigation bar
 - Product grid
-- Responsive layout
 - Hover effects
